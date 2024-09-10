@@ -27,7 +27,6 @@ ${middle}
 ${bottom}"
 
 #create html file and add the contents to it
-
 cat > $result_file << EOF
 
 $contents
